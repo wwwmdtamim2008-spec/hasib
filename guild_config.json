@@ -1,0 +1,32 @@
+{
+  "guild_id": "3091867069",
+  "region": "BD",
+  "guild_name": "FF*~*tamim",
+  "guild_region": "BD",
+  "max_members": 20,
+  "guild_level": 1,
+  "current_members": 8,
+  "details": {
+    "AutoApprovalStatus": "ON",
+    "AvatarName": "LION",
+    "CreationTime": "2026-02-10 04:02:04",
+    "CurrentMembers": 8,
+    "FrameName": "BEGINNER GUILD FRAME",
+    "GuildId": 3091867069,
+    "GuildLevel": 1,
+    "GuildName": "FF*~*tamim",
+    "GuildRegion": "BD",
+    "GuildSlogan": "FF*~*tamim",
+    "LastNoticeChangeTime": "2026-02-17 17:52:33",
+    "LastSloganChangeTime": "Never",
+    "MaxMembers": 20,
+    "MinBrRank": "Default",
+    "MinCsRank": "Default",
+    "MinLevelReq": 0,
+    "TotalActivityPoints": 503,
+    "WeeklyActivityPoints": 422,
+    "last_updated": "2026-11-16 13:56:22",
+    "status": "success"
+  },
+  "updated_at": 1794837378
+}

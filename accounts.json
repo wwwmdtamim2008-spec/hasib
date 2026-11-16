@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "8460737730",
+    "password": "Ajay_6F1CADA7B2C4",
+    "nickname": "s1uje7n⁷¹⁰⁵⁶",
+    "open_id": "69445c0a3c5dbca45e366c6d7bc11e96",
+    "access_token": "85e43dbfe54dfd91f1cf29b8cf1bb9585cd120222a66db71e6d945a3222b6275",
+    "account_id": 19159714808,
+    "jwt": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxOTE1OTcxNDgwOCwibmlja25hbWUiOiJRbFJBVWx3UERZSGpqNmJmaHVXSjBMRFQyK1BTIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjY5NDQ1YzBhM2M1ZGJjYTQ1ZTM2NmM2ZDdiYzExZTk2IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIyLjEzMy45IiwiY2xpZW50X3ZlcnNpb25fY29kZSI6IjIwMTkxMTg1MjciLCJlbXVsYXRvcl9zY29yZSI6MCwiaXNfZW11bGF0b3IiOmZhbHNlLCJjb3VudHJ5X2NvZGUiOiJCRCIsImV4dGVybmFsX3VpZCI6ODQ2MDczNzczMCwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjAsImxvY2tfcmVnaW9uX3RpbWUiOjAsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiMWFjNGI4MGVjZjA0NzhhNDQyMDNiZjhmYWM2MTIwZjUiLCJ1c2luZ192ZXJzaW9uIjoyLCJyZWxlYXNlX2NoYW5uZWwiOiJhbmRyb2lkX21heCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTQ4NjYxNzR9.Gasfv-zvX46PJUQi77Ote_5ZtaBBiIcsbuZInJ5xybU",
+    "online_ip_port": null,
+    "chat_ip_port": null,
+    "msdk_ua": "GarenaMSDK/4.0.42(Xiaomi 13 Pro ;Android 14;en;ID;app 2.130.2 2019118441;)",
+    "unity_ua": "UnityPlayer/2018.4.12f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+    "created_at": "2026-11-16T19:56:12.116358"
+  },
+  {
+    "uid": "8460737725",
+    "password": "Ajay_0077FFBEF741",
+    "nickname": "s1uje7n⁴²²⁵¹",
+    "open_id": "b9ad5541ef108083bb02bd6cff3092f7",
+    "access_token": "6f2099c5a65b37c872327e193f0cff7f974115530346557116d4736c5fbb394a",
+    "account_id": 19159714836,
+    "jwt": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxOTE1OTcxNDgzNiwibmlja25hbWUiOiJRbFJBVWx3UERZSGpqS2JVcHRiYnM0U2tnQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImI5YWQ1NTQxZWYxMDgwODNiYjAyYmQ2Y2ZmMzA5MmY3IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIyLjEzMy45IiwiY2xpZW50X3ZlcnNpb25fY29kZSI6IjIwMTkxMTg1MjciLCJlbXVsYXRvcl9zY29yZSI6MCwiaXNfZW11bGF0b3IiOmZhbHNlLCJjb3VudHJ5X2NvZGUiOiJCRCIsImV4dGVybmFsX3VpZCI6ODQ2MDczNzcyNSwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjAsImxvY2tfcmVnaW9uX3RpbWUiOjAsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiMWFjNGI4MGVjZjA0NzhhNDQyMDNiZjhmYWM2MTIwZjUiLCJ1c2luZ192ZXJzaW9uIjoyLCJyZWxlYXNlX2NoYW5uZWwiOiJhbmRyb2lkX21heCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTQ4NjYxNzV9.57JMkDbvHz551VQJoBXqiE7j_FYOFAPGwsI9K9TtI4Q",
+    "online_ip_port": null,
+    "chat_ip_port": null,
+    "msdk_ua": "GarenaMSDK/4.0.42(Redmi 2404ARN45A ;Android 13;en;IN;app 2.132.0 2019118721;)",
+    "unity_ua": "UnityPlayer/2018.4.12f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+    "created_at": "2026-11-16T19:56:12.589666"
+  },
+  {
+    "uid": "8460737832",
+    "password": "Ajay_CD3F689C0D3D",
+    "nickname": "s1uje7n¹⁷⁵⁸⁸",
+    "open_id": "6440cecabf15fcc3ce546e9649286400",
+    "access_token": "f1ac819c5df5573d5d4f045ee9a84c542eeb74cb7945d5935019102e1821acf7",
+    "account_id": 19159715131,
+    "jwt": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxOTE1OTcxNTEzMSwibmlja25hbWUiOiJRbFJBVWx3UERhSGIydVhSaHVXTTBMRGUyK1BjIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjY0NDBjZWNhYmYxNWZjYzNjZTU0NmU5NjQ5Mjg2NDAwIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIyLjEzMy45IiwiY2xpZW50X3ZlcnNpb25fY29kZSI6IjIwMTkxMTg1MjciLCJlbXVsYXRvcl9zY29yZSI6MCwiaXNfZW11bGF0b3IiOmZhbHNlLCJjb3VudHJ5X2NvZGUiOiJCRCIsImV4dGVybmFsX3VpZCI6ODQ2MDczNzgzMiwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjAsImxvY2tfcmVnaW9uX3RpbWUiOjAsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiMWFjNGI4MGVjZjA0NzhhNDQyMDNiZjhmYWM2MTIwZjUiLCJ1c2luZ192ZXJzaW9uIjoyLCJyZWxlYXNlX2NoYW5uZWwiOiJhbmRyb2lkX21heCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTQ4NjYxNzd9.nTVNY0EANlxKbP2vX7Pv2HR8VAktTNkpXfSt4tbmmp0",
+    "online_ip_port": null,
+    "chat_ip_port": null,
+    "msdk_ua": "GarenaMSDK/4.0.42(Redmi 2404ARN45A ;Android 13;en;IN;app 2.132.0 2019118721;)",
+    "unity_ua": "UnityPlayer/2021.3.27f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+    "created_at": "2026-11-16T19:56:14.118043"
+  },
+  {
+    "uid": "8460737841",
+    "password": "Ajay_A1DEFB58701C",
+    "nickname": "s1uje7n⁹⁸⁷⁷⁴",
+    "open_id": "da87749295392c7e1274b646debdef22",
+    "access_token": "01857ffada393005b336ff0cfa45d2c5dd821a377a6b98c4a04cde377f2c0a81",
+    "account_id": 19159715169,
+    "jwt": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxOTE1OTcxNTE2OSwibmlja25hbWUiOiJRbFJBVWx3UERZSGpnWWJuM0lhNGhkUG5qb0RsMFE9PSIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiJkYTg3NzQ5Mjk1MzkyYzdlMTI3NGI2NDZkZWJkZWYyMiIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMi4xMzMuOSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTE4NTI3IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiQkQiLCJleHRlcm5hbF91aWQiOjg0NjA3Mzc4NDEsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IjFhYzRiODBlY2YwNDc4YTQ0MjAzYmY4ZmFjNjEyMGY1IiwidXNpbmdfdmVyc2lvbiI6MiwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZF9tYXgiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjU1IiwiZXhwIjoxNzk0ODY2MTc3fQ.M2GaFC3eF0OUX7K9q0zXeDlnEeZDoZQjsl3vNYCi8HE",
+    "online_ip_port": null,
+    "chat_ip_port": null,
+    "msdk_ua": "GarenaMSDK/4.0.42(Redmi 2404ARN45A ;Android 13;en;IN;app 2.132.0 2019118721;)",
+    "unity_ua": "UnityPlayer/2020.3.45f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+    "created_at": "2026-11-16T19:56:14.291465"
+  }
+]
